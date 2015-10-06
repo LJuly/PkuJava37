@@ -7,6 +7,6 @@ LI Jing 李婧 1501210937
 ###Homework 1  Date: 151007
 10 problems all done:</br>
 Leetcode prob.: 67  191 58  202 8   118 189 119 75  151</br>
-Lj               X       X       X   X       X  </br>
-Zsl                  X   X   X                   X</br>
-Lzw                  X       X       X   X           X  </br>
+Lj: 67,58,8,118,119 </br>
+Zsl: 191, 58, 202, 75</br>
+Lzw: 191, 202, 118, 189  </br>
